@@ -27,7 +27,7 @@ The testing result will be saved in the `output` directory.
 ### 3. Contact
 If you have any questions, please contact me.
 
-Shengchen Li
+Mengyuan Li
 
 Email: [mengyuanli@tongji.edu.cn](mengyuanli@tongji.edu.cn)
 
