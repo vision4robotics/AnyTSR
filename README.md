@@ -9,11 +9,14 @@ Thermal imaging can greatly enhance the application of intelligent unmanned aeri
 
 This figure shows the workflow of our AnyTSR.
 
-## 🔥 New Extension: AnyTSR++ (Our Enhanced Version)
+## 🔥 New Extension: AnyTSR++
 We further extend AnyTSR and propose a more advanced framework:
 # **AnyTSR++: Prompt-Oriented Any-Scale Thermal Super-Resolution for Unmanned Aerial Vehicle**
+
 📌 **Dataset and Code**
+
 👉 https://github.com/vision4robotics/AnyTSRpp
+
 If you are interested in our extended work, please refer to the above repository.
 
 ## About Code
