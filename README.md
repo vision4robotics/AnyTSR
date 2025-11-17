@@ -11,7 +11,7 @@ This figure shows the workflow of our AnyTSR.
 
 ## 🔥 New Extension: AnyTSR++
 We further extend AnyTSR and propose a more advanced framework:
-# **AnyTSR++: Prompt-Oriented Any-Scale Thermal Super-Resolution for Unmanned Aerial Vehicle**
+## **AnyTSR++: Prompt-Oriented Any-Scale Thermal Super-Resolution for Unmanned Aerial Vehicle**
 
 📌 **Dataset and Code**
 
